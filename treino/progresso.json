@@ -1,0 +1,137 @@
+{
+ "s00.kvm": {
+  "status": "ok",
+  "erros": 1,
+  "quando": "2026-11-08 18:51"
+ },
+ "s00.conc.1": {
+  "status": "ok",
+  "erros": 1,
+  "quando": "2026-11-08 18:51"
+ },
+ "s00.conc.2": {
+  "status": "ok",
+  "erros": 0,
+  "quando": "2026-11-08 18:51"
+ },
+ "s00.conc.3": {
+  "status": "ok",
+  "erros": 0,
+  "quando": "2026-11-08 18:51"
+ },
+ "s00.conc.4": {
+  "status": "ok",
+  "erros": 0,
+  "quando": "2026-11-08 18:52"
+ },
+ "s00.conc.5": {
+  "status": "ok",
+  "erros": 1,
+  "quando": "2026-11-08 18:52"
+ },
+ "s00.uri": {
+  "status": "ok",
+  "erros": 0,
+  "quando": "2026-11-08 18:53"
+ },
+ "s00.rede": {
+  "status": "ok",
+  "erros": 0,
+  "quando": "2026-11-08 18:54"
+ },
+ "s00.pool": {
+  "status": "ok",
+  "erros": 0,
+  "quando": "2026-11-08 18:54"
+ },
+ "s00.isos": {
+  "status": "ok",
+  "erros": 0,
+  "quando": "2026-11-08 18:55"
+ },
+ "s00.hash.1": {
+  "status": "ok",
+  "erros": 0,
+  "quando": "2026-11-08 18:55"
+ },
+ "s00.hash.2": {
+  "status": "pulou",
+  "erros": 5,
+  "quando": "2026-11-08 19:15"
+ },
+ "s00.hash.3": {
+  "status": "ok",
+  "erros": 0,
+  "quando": "2026-11-08 18:57"
+ },
+ "s00.vms": {
+  "status": "ok",
+  "erros": 1,
+  "quando": "2026-11-08 18:58"
+ },
+ "s00.virsh.1": {
+  "status": "ok",
+  "erros": 1,
+  "quando": "2026-11-08 19:04"
+ },
+ "s00.virsh.2": {
+  "status": "ok",
+  "erros": 0,
+  "quando": "2026-11-08 18:59"
+ },
+ "s00.virsh.3": {
+  "status": "ok",
+  "erros": 0,
+  "quando": "2026-11-08 18:59"
+ },
+ "s00.virsh.4": {
+  "status": "ok",
+  "erros": 0,
+  "quando": "2026-11-08 18:59"
+ },
+ "s00.virsh.5": {
+  "status": "ok",
+  "erros": 2,
+  "quando": "2026-11-08 19:05"
+ },
+ "s00.virsh.6": {
+  "status": "ok",
+  "erros": 0,
+  "quando": "2026-11-08 19:00"
+ },
+ "s00.ligar": {
+  "status": "ok",
+  "erros": 0,
+  "quando": "2026-11-08 19:00"
+ },
+ "s00.ssh": {
+  "status": "pulou",
+  "erros": 0,
+  "quando": "2026-11-08 19:15"
+ },
+ "s00.sudo": {
+  "status": "viu",
+  "erros": 2,
+  "quando": "2026-11-08 19:16"
+ },
+ "s00.discos": {
+  "status": "ok",
+  "erros": 0,
+  "quando": "2026-11-08 19:19"
+ },
+ "s00.repos": {
+  "status": "ok",
+  "erros": 3,
+  "quando": "2026-11-08 19:32"
+ },
+ "s00.snap": {
+  "status": "ok",
+  "erros": 0,
+  "quando": "2026-11-08 19:35"
+ },
+ "s00.snap.2": {
+  "status": "ok",
+  "erros": 1,
+  "quando": "2026-11-08 19:35"
+ }
+}
